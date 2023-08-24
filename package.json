@@ -1,5 +1,5 @@
 {
-  "name": "telbit-amr-decoder-npm",
+  "name": "telbit-amr-decoder",
   "version": "1.0.0",
   "description": "TelBit AMR data payload decoder received from SigFox.",
   "main": "index.js",
