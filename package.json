@@ -1,0 +1,22 @@
+{
+  "name": "telbit-amr-decoder-npm",
+  "version": "1.0.0",
+  "description": "TelBit AMR data payload decoder received from SigFox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannoVorster/TelBit-AMR-Decoder.git"
+  },
+  "keywords": [
+    "TelBit"
+  ],
+  "author": "Hanno Vorster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HannoVorster/TelBit-AMR-Decoder/issues"
+  },
+  "homepage": "https://github.com/HannoVorster/TelBit-AMR-Decoder#readme"
+}
